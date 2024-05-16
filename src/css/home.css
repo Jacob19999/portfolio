@@ -1,0 +1,48 @@
+.home-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+.displaybox {
+    width: 1300px;
+    height: 70vh; 
+    margin: auto; 
+    margin-top: 5vh; 
+    margin-bottom: 5vh;
+    background-color: white;
+    border-radius: .5vh;
+    background: rgba(255, 255, 255, .9);
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.picture-round {
+    
+    height: 50%; 
+    width: height; 
+    border-radius: 50%;
+    margin-left: 50px;
+
+}
+
+.infoboxRight {
+    margin-left: 100px;
+    
+    height: 400px;
+    width: 50%;
+
+    justify-content: flex-end;
+}
+
+.typewriter-job {
+
+    margin-top: 10px;
+}
+
+.typewriter-description {
+    margin-top: 20px;
+}
