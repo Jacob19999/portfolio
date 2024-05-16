@@ -1,6 +1,6 @@
 # Portfolio website built using react and typescript 
 
-![Uploading image.png…]()
+![image](https://github.com/Jacob19999/portfolio/assets/26366586/c21e1cdb-5288-4e94-8a45-b11e13e07bc5)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
